@@ -1,0 +1,9 @@
+app:
+  platform: windows|linux|darwin
+  appDir: example
+  appSessionsDir: example
+  appPath: example
+  torPath: example
+
+  # windowsPath: example
+  # linuxPath: example
