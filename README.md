@@ -66,13 +66,13 @@ onion-chat connect example-url.onion
   
 > ## Ejemplo final de chat en la terminal: 
   
-  <img width="500" height="153" alt="onion-chat-preview-1" src="https://github.com/user-attachments/assets/1bb684d2-5d66-40ce-a210-c47a3d86b5ad" />
+  <img width="500" height="153" alt="onion-chat-preview-1" src="https://github.com/user-attachments/assets/3b6ed44c-45d3-401a-a32a-de14d2cd01ab" />
 
 <br>
 
 > ### Así vería el chat el otro usuario:
 
-  <img width="500" height="138" alt="onion-chat-preview-2" src="https://github.com/user-attachments/assets/1912f2c8-0880-4617-855d-43cbad0c1e8d" />
+  <img width="500" height="138" alt="onion-chat-preview-2" src="https://github.com/user-attachments/assets/1837526a-e92c-41de-a841-235980e35043" />
   
 </div>
 
