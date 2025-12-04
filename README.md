@@ -64,7 +64,7 @@ onion-chat connect example-url.onion
 ---
 <div align="center">
   
-> ## Ejemplo final de chat en la terminal: 
+> ## Ejemplo de chat en la terminal: 
   
   <img width="500" height="153" alt="onion-chat-preview-1" src="https://github.com/user-attachments/assets/3b6ed44c-45d3-401a-a32a-de14d2cd01ab" />
 
@@ -84,8 +84,7 @@ onion-chat connect example-url.onion
 > Este proyecto utiliza Bine, una librería de Golang para abstraer de parte de la configuración de los servicios de Tor y el torrc (El archivo principal de configuración de Tor).
 >
 > Bine dejó de ser desarrollado y mantenido a mediados de 2023, tan solo actualiza periódicamente sus dependencias.
-> <br>Esto no implica grandes problemas, la gran mayoría de la seguridad recae en el motor de Tor, Bine tan solo abstrae del control de puertos y arranque de procesos de Tor, no gestiona ninguna tarea crítica como cifrado de capas, enrutado, gestión de red... u otras tareas del motor Tor.
-> 
+>
 > Enlace del [repositorio de Bine](https://github.com/cretz/bine)
 
 > [!NOTE]
